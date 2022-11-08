@@ -10,6 +10,12 @@
 
 This package makes it easy to send notifications using Apple Push (APN) with Laravel.
 
+## Navigation. 
+*   [home](/).  
+*   [LICENSE](./LICENSE).  
+*   [HOWTO](./HOWTO.md).  
+*   [CHANGELOG](./CHANGELOG.md).  
+
 ## Contents
 
 - [Installation](#installation)
